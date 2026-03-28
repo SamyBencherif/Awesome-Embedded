@@ -356,6 +356,7 @@ Table of content
 ### USB
 
 * [tinyusb](https://github.com/hathach/tinyusb) - An open source USB stack for a variety of Embedded Systems.
+* [Phantom](https://getphantom.app) - A simplified tool for USB debugging (pre-release)
 
 ## Others
 
